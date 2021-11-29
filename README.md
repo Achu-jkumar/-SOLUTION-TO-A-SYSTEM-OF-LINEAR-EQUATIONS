@@ -27,7 +27,7 @@ print(sol)
 
 ## Output:
 ##Program output:
-[output](./images/output.png)
+![Github](./prog1.png)
 
 
 ## Result: 
