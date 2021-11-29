@@ -28,8 +28,6 @@ print(sol)
 ## Output:
 ##Program output:
 [output](./images/output.png)
-![Program output](https://user-images.githubusercontent.com/93427594/143672885-eb4a2876-80da-4782-9d7e-6d552133cbf3.png)
-
 
 
 ## Result: 
